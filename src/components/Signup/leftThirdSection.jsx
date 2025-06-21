@@ -66,15 +66,16 @@ const LeftThirdSection = () => {
             >
               <div className="mb-2">
                 <span className="font-semibold text-gray-900 text-sm">
-                  Jack F
+                  Shiv S
                 </span>
                 <span className="text-gray-400 ml-2 text-xs">
-                  Ex Blackrock PM
+                  Co-Founder Magik Labs
                 </span>
               </div>
               <p className="text-gray-800 text-sm">
-                "Love how Loch integrates portfolio analytics and whale watching
-                into one unified app."
+                "Managing my own portfolio is helpful and well designed. What's
+                really interesting is watching the whales though. No one else
+                has made whale tracking so simple."
               </p>
             </div>
             <div
@@ -95,22 +96,22 @@ const LeftThirdSection = () => {
                 it. I'm addicted!"
               </p>
             </div>
+
             <div
               className="w-[280px] md:w-[353px] 2xl:p-6 p-4 bg-white rounded-xl shadow-md snap-start flex-shrink-0 cursor-pointer hover:shadow-lg transition-shadow duration-200"
               onClick={handleCardClick}
             >
               <div className="mb-2">
                 <span className="font-semibold text-gray-900 text-sm">
-                  Shiv S
+                  Jack F
                 </span>
                 <span className="text-gray-400 ml-2 text-xs">
-                  Co-Founder Magik Labs
+                  Ex Blackrock PM
                 </span>
               </div>
               <p className="text-gray-800 text-sm">
-                "Managing my own portfolio is helpful and well designed. What's
-                really interesting is watching the whales though. No one else
-                has made whale tracking so simple."
+                "Love how Loch integrates portfolio analytics and whale watching
+                into one unified app."
               </p>
             </div>
           </div>
